@@ -147,11 +147,7 @@ I approach software the same way I approach engineering: with precision, structu
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elgazzar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=tokyonight&hide_border=true&hide=cmake,c%2B%2B" />
+  <img src="https://streak-stats.demolab.com?user=Moataz-Elgazzar&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
