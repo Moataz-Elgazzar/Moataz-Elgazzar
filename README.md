@@ -29,7 +29,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> &nbsp;About Me
 
 ```dart
+I am a **Mechanical Power Engineering** graduate from Helwan University, currently working as a **Telematics Engineer at AFAQY** — configuring microcontrollers, integrating fleet management systems, and calibrating sensors at scale. Alongside my engineering career, I have been building a focused path in software development: starting with C++, data structures, and algorithms, and expanding into full cross-platform mobile development with **Flutter and Dart**.
 
+My engineering background shapes how I write code — systematically, precisely, and with a clear bias toward clean architecture and maintainable solutions. I treat every project the way I treat an engineering system: understand the requirements deeply, design carefully, then build it right.
+
+- Building production-grade mobile apps with **Flutter, Dart, and Firebase**
+- Practicing competitive programming on Codeforces — handle: [El-Gazzar](https://codeforces.com/profile/El-Gazzar)
+- Deepening expertise in **Clean Architecture, Cubit/BLoC, and REST API integration**
+- Background in embedded systems, microcontroller configuration, and sensor calibration
+- Certified in **Prompt Engineering** (Udemy) with hands-on LLM application development
 ```
 
 <br/>
