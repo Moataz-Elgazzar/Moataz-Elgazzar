@@ -148,8 +148,6 @@ I approach software the same way I approach engineering: with precision, structu
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Moataz-Elgazzar&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=github_dark&hide_border=true&hide=c%2B%2B,cmake,c,swift,html&langs_count=6)
-
 </div>
 
 ---
