@@ -1,12 +1,14 @@
 <div align="center">
 
-# Moataz Mahmoud
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moataz+Mahmoud+%F0%9F%91%8B;Flutter+Developer;Software+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
-**Flutter Developer · C++ Engineer · Competitive Programmer**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-mahmoud-a2a548a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moataz-Elgazzar)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/El-Gazzar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moataz.mahmoad@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Moataz-Elgazzar&color=2F81F7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -14,14 +16,15 @@
 
 ## About Me
 
-I am a Mechanical Power Engineering graduate from Helwan University, currently working as a Telematics Engineer while building a focused career in software development. My path into coding is driven by a genuine passion for problem-solving — starting from algorithmic thinking in C++ and data structures, and expanding into cross-platform mobile development with Flutter.
+I am a **Mechanical Power Engineering** graduate from Helwan University, currently working as a **Telematics Engineer at AFAQY** — configuring microcontrollers, integrating fleet management systems, and calibrating sensors at scale. Alongside my engineering career, I have been building a focused path in software development: starting with C++, data structures, and algorithms, and expanding into full cross-platform mobile development with **Flutter and Dart**.
 
-I approach software the same way I approach engineering: with precision, structure, and a bias toward clean, maintainable solutions.
+My engineering background shapes how I write code — systematically, precisely, and with a clear bias toward clean architecture and maintainable solutions. I treat every project the way I treat an engineering system: understand the requirements deeply, design carefully, then build it right.
 
-- Actively building mobile applications with Flutter & Dart
-- Practicing competitive programming on Codeforces ([El-Gazzar](https://codeforces.com/profile/El-Gazzar))
-- Deepening expertise in C++ OOP, STL, and data structures
-- Background in embedded systems and CAD tools from engineering work
+- Building production-grade mobile apps with **Flutter, Dart, and Firebase**
+- Practicing competitive programming on Codeforces — handle: [El-Gazzar](https://codeforces.com/profile/El-Gazzar)
+- Deepening expertise in **Clean Architecture, Cubit/BLoC, and REST API integration**
+- Background in embedded systems, microcontroller configuration, and sensor calibration
+- Certified in **Prompt Engineering** (Udemy) with hands-on LLM application development
 
 ---
 
@@ -31,41 +34,48 @@ I approach software the same way I approach engineering: with precision, structu
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Systems & Backend**
+**State Management & Architecture**
+
+![Cubit](https://img.shields.io/badge/Cubit%2FBLoC-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Systems & Tools**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Engineering & Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Engineering**
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logoColor=white)
 
-**Core Concepts:** OOP · STL · Data Structures · Algorithms · Embedded Systems · Material Design
+**Core Concepts:** OOP · STL · Data Structures · Algorithms · Material Design · Embedded Systems · Microcontroller Integration · Sensor Calibration
 
 ---
 
 ## Featured Projects
 
 ### 5roga (خروجة) — Outing Planner App
-> A full-featured Flutter app that helps users plan outings — from choosing the place and time, to scheduling reminders and sharing plans with friends.
+> A full-featured Flutter app that solves the "where should we go?" problem — letting users browse venues, plan outings with date and time, schedule reminders, and share plans with friends.
 
 - Browse categorized venues: cinemas, restaurants, cafés, games, amusement parks, kids activities
-- Open locations in Google Maps, call venues, and rate them with a star system
-- Create personalized outing plans with date, time, and scheduled notifications
-- Firebase Authentication with Google Sign-In
-- Admin role: add & manage places directly from the app
-- Dark Mode, English & Arabic localization, shimmer loading, smooth animations
-- Share plan as an in-app screenshot with friends via social apps
+- Open locations directly in Google Maps · call venues · star rating system
+- Personalized outing plan creation with scheduled local notifications (WorkManager)
+- Firebase Authentication + Google Sign-In · Firestore backend
+- Admin role: add and manage places directly from the app
+- Dark Mode · English & Arabic localization · shimmer loading · smooth animations
+- Share plans as in-app screenshots via social apps
+- Downloadable Android APK available
 
 **Stack:** Flutter · Dart · Firebase · Firestore · WorkManager · Google Maps
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moataz-Elgazzar/5roga)
 [![Download APK](https://img.shields.io/badge/Download_APK-34A853?style=flat-square&logo=android&logoColor=white)](https://drive.google.com/file/d/1BUZ6-fpXRAXAsSfiWAxLV8-6tA7gN8ka/view?usp=sharing)
-
-**Screenshots:**
 
 | Onboarding | Home | Places | Plan |
 |:---:|:---:|:---:|:---:|
@@ -78,21 +88,19 @@ I approach software the same way I approach engineering: with precision, structu
 ---
 
 ### Bookia — Flutter Bookstore App
-> A complete bookstore application with RESTful API integration, Cubit state management, and a polished multi-screen experience.
+> A complete e-commerce bookstore with RESTful API integration, Cubit state management, Clean Architecture, and a polished multi-screen experience across 15+ screens.
 
-- Browse and purchase books with a clean, animated UI
-- Wishlist and cart management with live updates
+- Full authentication flow: register · login · OTP verification · forget/reset password
+- Browse and purchase books with shimmer-loaded, cached network images
+- Wishlist and cart management with live price updates
 - Debounced search for fast, efficient book discovery
-- Full authentication flow: register, login, OTP verification, password reset
-- Profile management: edit info, order history, reset password
-- Shimmer loading animations and cached network images
-- Clean Architecture with Cubit (flutter_bloc) and Go Router
+- Order history · edit profile · reset password
+- Clean Architecture with feature-based folder structure
+- Cubit (flutter_bloc) state management · Go Router navigation
 
 **Stack:** Flutter · Dart · Dio · Cubit · Go Router · SharedPreferences · CachedNetworkImage
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moataz-Elgazzar/Bookia_App)
-
-**Screenshots:**
 
 | Splash | Welcome | Login | Register | OTP |
 |:---:|:---:|:---:|:---:|:---:|
@@ -105,21 +113,19 @@ I approach software the same way I approach engineering: with precision, structu
 ---
 
 ### Taskati — Task Manager App
-> A clean Flutter task management application with profile customization, dark mode, and Lottie animations.
+> A clean, focused Flutter productivity app with Lottie animations, local data persistence, dark mode, and full profile customization.
 
-- Animated splash screen with Lottie
-- Upload profile photo from camera or gallery
+- Lottie-animated splash screen
+- Upload profile photo from camera or gallery (Image Picker)
 - Create tasks with title, description, date, start/end time, and color labels
-- Edit and delete tasks with full input validation
-- Dark Mode toggle
-- Edit username and profile image
+- Edit and delete tasks · full input validation · error dialogs
+- Dark Mode toggle · edit username and profile image
+- Downloadable Android APK available
 
-**Stack:** Flutter · Dart · Lottie · Image Picker
+**Stack:** Flutter · Dart · Lottie · Image Picker · Hive
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moataz-Elgazzar/Taskati_APP)
 [![Download APK](https://img.shields.io/badge/Download_APK-34A853?style=flat-square&logo=android&logoColor=white)](https://drive.google.com/file/d/1FxhddL60Yqv4bMhr8_CmsY2dx1CTw9Cl/view)
-
-**Screenshots:**
 
 | Splash & Add Task | Edit Profile | Home & Profile | Dark Mode |
 |:---:|:---:|:---:|:---:|
@@ -128,13 +134,13 @@ I approach software the same way I approach engineering: with precision, structu
 ---
 
 ### DocDoc — Doctor Appointment App
-> A Flutter medical application for browsing and booking doctor appointments, built with Firebase and a proper branching workflow (development branch).
+> A Flutter healthcare application for browsing and booking doctor appointments, built with Firebase, Firestore, and a structured CI/CD pipeline.
 
 - Doctor discovery and profile browsing
 - Appointment booking flow
-- Firebase integration for backend services
+- Firebase Authentication + Firestore backend
 - GitHub Actions CI/CD workflow configured
-- Feature-based clean architecture
+- Feature-based Clean Architecture · active `development` branch
 
 **Stack:** Flutter · Dart · Firebase · Firestore · GitHub Actions
 
@@ -148,27 +154,38 @@ I approach software the same way I approach engineering: with precision, structu
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Moataz-Elgazzar&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=github_dark&hide_border=true&hide=c%2B%2B,cmake,c,swift,html&langs_count=6)
+
 </div>
 
 ---
 
 ## Currently Learning
 
-- Advanced Flutter: state management patterns (Provider, Riverpod, BLoC)
-- Clean Architecture and SOLID principles in Dart
-- RESTful API integration in mobile applications
-- Advanced C++ patterns and competitive programming strategies
+- Advanced Flutter: BLoC pattern, Provider, Riverpod
+- Clean Architecture and SOLID principles at scale in Dart
+- Advanced REST API integration and error handling strategies
+- Competitive programming: graphs, dynamic programming, advanced algorithms
+
+---
+
+## Certifications
+
+- **Prompt Engineering for Developers** — Udemy · 2024
+- **Non-Destructive Testing (NDT) Level 2** — KIT Company · 2018
+- **MEP Diploma** (HVAC, Fire Fighting, Plumbing) — Engineers House · 2019
 
 ---
 
 ## Get in Touch
 
-I'm open to collaboration, project feedback, and opportunities in Flutter or C++ development.
+I'm open to collaboration, project feedback, and Flutter/software engineering opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-mahmoud-a2a548a6/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moataz.mahmoad@gmail.com)
 
 ---
 
 <div align="center">
-<sub>Built with care — clean, structured, and always improving.</sub>
+<sub>Built with precision — clean architecture, clean code, always improving.</sub>
 </div>
