@@ -35,6 +35,9 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moataz+Mahmoud+%F0%9F%91%8B;Flutter+Developer;Software+Engineer;Problem+Solver)](https://git.io/typing-svg)
+```
+
+<br/>
 
 ---
 
