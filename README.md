@@ -142,13 +142,15 @@ I approach software the same way I approach engineering: with precision, structu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moataz-Elgazzar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=github_dark&hide_border=true&hide=c%2B%2B,cmake,c,swift,html" />
-</p>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Moataz-Elgazzar&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=github_dark&hide_border=true&hide=c%2B%2B,cmake,c,swift,html&langs_count=6)
+
+</div>
 
 ---
 
