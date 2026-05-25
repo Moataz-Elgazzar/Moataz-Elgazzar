@@ -146,9 +146,13 @@ I approach software the same way I approach engineering: with precision, structu
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Moataz-Elgazzar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elgazzar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=github_dark&hide_border=true&hide=cmake,c%2B%2B)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elgazzar&layout=compact&theme=tokyonight&hide_border=true&hide=cmake,c%2B%2B" />
+</p>
 
 </div>
 
